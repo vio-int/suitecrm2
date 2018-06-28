@@ -1,0 +1,6 @@
+<?php
+ // created: 2018-04-25 06:36:41
+$dictionary['Contact']['fields']['company_size_c']['inline_edit']='1';
+$dictionary['Contact']['fields']['company_size_c']['labelValue']='Company Size';
+
+ ?>
